@@ -1,0 +1,53 @@
+body{
+	background-color: white;
+
+}
+h1{
+	background-color: purple ;
+	text-align: center;
+	font-family: sans-serif;
+}
+h2{
+	background-color:mediumpurple ;
+	color: black;
+	text-align: center;
+	font-family: initial;
+}
+img{
+	height:350px;
+	width: 350px;
+
+}
+p{
+	background-color: whitesmoke;
+}
+h3{
+	background-color: mediumpurple;
+	text-align: center;
+	font-family: initial;
+}
+h4{
+	background-color: mediumpurple;
+	color: black;
+	text-align: center;
+	font-family: initial;
+}
+h5{
+	background-color:mediumpurple ;
+	text-align: center;
+	font-family: initial;
+}
+h6{
+	background-color: mediumpurple;
+	text-align: center;
+	font-family: initial;
+}
+ol{
+	color: black;
+}
+ul{
+	color: black;
+}
+a{
+	color: black;
+}
